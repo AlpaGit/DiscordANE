@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (DiscordAME.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+discord-rpc.lib(discord_rpc.obj) : error LNK2038: discordance détectée pour '_ITERATOR_DEBUG_LEVEL' : la valeur '0' ne correspond pas à la valeur '2' in dllmain.obj
+discord-rpc.lib(discord_rpc.obj) : error LNK2038: discordance détectée pour 'RuntimeLibrary' : la valeur 'MD_DynamicRelease' ne correspond pas à la valeur 'MDd_DynamicDebug' in dllmain.obj
+discord-rpc.lib(discord_register_win.obj) : error LNK2038: discordance détectée pour '_ITERATOR_DEBUG_LEVEL' : la valeur '0' ne correspond pas à la valeur '2' in dllmain.obj
+discord-rpc.lib(discord_register_win.obj) : error LNK2038: discordance détectée pour 'RuntimeLibrary' : la valeur 'MD_DynamicRelease' ne correspond pas à la valeur 'MDd_DynamicDebug' in dllmain.obj
+discord-rpc.lib(serialization.obj) : error LNK2038: discordance détectée pour '_ITERATOR_DEBUG_LEVEL' : la valeur '0' ne correspond pas à la valeur '2' in dllmain.obj
+discord-rpc.lib(serialization.obj) : error LNK2038: discordance détectée pour 'RuntimeLibrary' : la valeur 'MD_DynamicRelease' ne correspond pas à la valeur 'MDd_DynamicDebug' in dllmain.obj
+discord-rpc.lib(rpc_connection.obj) : error LNK2038: discordance détectée pour '_ITERATOR_DEBUG_LEVEL' : la valeur '0' ne correspond pas à la valeur '2' in dllmain.obj
+discord-rpc.lib(rpc_connection.obj) : error LNK2038: discordance détectée pour 'RuntimeLibrary' : la valeur 'MD_DynamicRelease' ne correspond pas à la valeur 'MDd_DynamicDebug' in dllmain.obj
+     Création de la bibliothèque C:\Users\alpag\source\repos\DiscordAME\Debug\DiscordANE.lib et de l'objet C:\Users\alpag\source\repos\DiscordAME\Debug\DiscordANE.exp
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'MSVCRT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+C:\Users\alpag\source\repos\DiscordAME\Debug\DiscordANE.dll : fatal error LNK1319: 8 discordances détectées

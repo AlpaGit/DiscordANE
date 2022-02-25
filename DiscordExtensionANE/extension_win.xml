@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension xmlns="http://ns.adobe.com/air/extension/19.0">
+    <id>com.discord.DiscordExtension</id>
+    <name>DiscordANE</name>
+    <copyright></copyright>
+    <versionNumber>0.0.1</versionNumber>
+	<platforms>
+        <platform name="Windows-x86">
+            <applicationDeployment>
+                <nativeLibrary>DiscordANE.dll</nativeLibrary>
+				<initializer>ExtensionInitializer</initializer>
+				<finalizer>ExtensionFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+        <platform name="Windows-x86-64">
+            <applicationDeployment>
+                <nativeLibrary>DiscordANE.dll</nativeLibrary>
+				<initializer>ExtensionInitializer</initializer>
+				<finalizer>ExtensionFinalizer</finalizer>
+            </applicationDeployment>
+        </platform>
+	</platforms>
+</extension>

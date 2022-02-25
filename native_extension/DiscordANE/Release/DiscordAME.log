@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\alpag\source\repos\DiscordANE\DiscordANE\dllmain.cpp(9,1) : warning C4005: '_ITERATOR_DEBUG_LEVEL' : redéfinition de macro
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.23.28008\include\yvals.h(123) : message : voir la définition précédente de '_ITERATOR_DEBUG_LEVEL'
+     Création de la bibliothèque C:\Users\alpag\source\repos\DiscordANE\Release\DiscordANE.lib et de l'objet C:\Users\alpag\source\repos\DiscordANE\Release\DiscordANE.exp
+  Génération de code en cours
+  2 of 111 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  DiscordAME.vcxproj -> C:\Users\alpag\source\repos\DiscordANE\Release\DiscordANE.dll
